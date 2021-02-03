@@ -1,0 +1,32 @@
+body{ 
+    display: flex;
+    justify-content: center;
+}
+main{
+    border: 5px hidden rgb(131, 131, 131);
+    background-color: rgb(216, 216, 216);
+    width: 600px;
+    height: 500px;
+    border-radius: 15px;
+    box-shadow: 2px 5px 20px black;
+}
+h1{
+    text-align: center;
+}
+img{
+    
+    height: 300px;
+    width: 300px;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+}
+.pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact{
+    text-align: center;
+}
